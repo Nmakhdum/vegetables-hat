@@ -49,9 +49,9 @@ const data = [
   {
     id: 7,
     url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtBmoodr0URJxj5Bjhr4bFwqvcVbZokfIN9Q&usqp=CAU",
-    title: "Tomato sauce ",
+    title: "Ash Gourd ",
     desc: "red colored",
-    price: 10,
+    price: 55,
   },
   {
     id: 8,
