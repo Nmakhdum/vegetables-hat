@@ -7,7 +7,7 @@ const App = () => {
   return (
     <div>
       <h1 className="text-center text-primary my-3">
-        @--Niaz Vai Vegitable Astrologer--@
+        Organic Vegetables Hat
       </h1>
       <Home></Home>
       <div className="container my-5">
