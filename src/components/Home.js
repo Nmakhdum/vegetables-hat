@@ -42,9 +42,9 @@ const data = [
   {
     id: 6,
     url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYniHR9YkND7M7pu-4vM84cOiIHD_72IH9Mg&usqp=CAU",
-    title: "Tomato ",
+    title: "Bitter Gourd ",
     desc: "red colored",
-    price: 10,
+    price: 40,
   },
   {
     id: 7,
