@@ -56,9 +56,9 @@ const data = [
   {
     id: 8,
     url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9UIT2TRsPFCnFnsSC93HqDNn6pr_kq-0ycw&usqp=CAU",
-    title: "Tomato sauce ",
+    title: "Tomato  ",
     desc: "red colored",
-    price: 10,
+    price: 30,
   },
   {
     id: 9,
